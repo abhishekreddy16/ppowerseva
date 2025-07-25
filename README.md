@@ -15,9 +15,7 @@ A responsive web application that notifies users about power outages and estimat
 git clone https://github.com/your-username/power-outage-alert.git
 cd power-outage-alert
 ###2. Install dependencies
-
 npm install
 ###3. Start the development server
-
 npm run dev
 
